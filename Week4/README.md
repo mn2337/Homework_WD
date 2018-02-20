@@ -1,0 +1,1 @@
+http://sites.bxmc.poly.edu/~michaelnelson/afs/index.php/2018/02/20/proposal-for-midterm/
