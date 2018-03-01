@@ -1,0 +1,58 @@
+* {
+	box-sizing: border-box;
+	background-color: Ivory;
+	text-decoration: none;
+}
+
+header {
+	text-align: center;
+	position: relative;
+	left: 0;
+	top: 0;
+	width: 100%;
+	display: inline;
+	clear: none;
+}
+
+footer {
+	text-align: center;
+	position: relative;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
+
+.left {
+	float: left;
+	position: relative;
+}
+
+.right {
+	float: right;
+	position: relative;
+}
+
+div img {
+	display: inline-block;
+	width: 30%;
+	height: 100%;
+	border: 0 auto;
+}
+
+div:after {
+	content: "";
+	width: 100%;
+	display: inline-block;
+}
+
+.product{
+	position: relative;
+	text-align: center;
+}
+
+.text {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, 50%);
+}
