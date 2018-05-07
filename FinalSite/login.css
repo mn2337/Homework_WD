@@ -1,0 +1,41 @@
+a, h3, h4, p, input {
+	color: #2B7A78;
+}
+
+a:hover {
+	text-decoration: none;
+}
+S
+::selection {
+	color: #DEF2F1;
+}
+
+pre {
+	font-size: 9px;
+	border: 0 auto;
+	margin: 0 auto;
+}
+
+h1 { 
+	margin: 0 auto; 
+}
+
+header, footer {
+	letter-spacing: 2px;
+}
+
+.text-left {
+	font-size: 35px;
+}
+
+.unimp {
+	font-size: 1rem;
+}
+
+.col-sm-4 {
+	border: 1px solid #2B7A78;
+}
+
+.sd {
+	padding-top: 12%;
+}
